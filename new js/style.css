@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+}
+
+
+
+#answer{
+    font-size: 44px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    font-family: sans-serif;
+    color: crimson;
+}
